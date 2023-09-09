@@ -26,4 +26,4 @@ try:
 
 finally:
     time.sleep(10)
-    browser.quit()
+    browser.quit() #Не забыть закрыть браузер, чтобы память не утекала
